@@ -22,7 +22,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
 
       appBar: AppBar(
-        title: const Text("Blog Api Lessons"),
+        title: const Text("Blog Api Lesson by Ruby Lerner"),
         centerTitle: true,
       ),
       body: Consumer<GetAllPostNotifier>(
